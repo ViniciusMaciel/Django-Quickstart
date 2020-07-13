@@ -1,1 +1,1 @@
-web: gunicorn pessoal.wsgi --log-file -
+web: gunicorn quickstart.wsgi --log-file -
