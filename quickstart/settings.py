@@ -25,7 +25,7 @@ SECRET_KEY = '1s(o1jgvo$s6k732k@h3sezoh3(uuqss3+-86@rq+95r+m=y)t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['venm-teste.herokuapp.com']
+ALLOWED_HOSTS = ['<Set your App Name Here!!!>.herokuapp.com']
 
 
 # Application definition
